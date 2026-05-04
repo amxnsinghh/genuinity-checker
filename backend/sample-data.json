@@ -1,0 +1,67 @@
+{
+  "useAI": true,
+  "responses": [
+    {
+      "id": "r1",
+      "email": "alice@example.com",
+      "startedAt": "2026-05-01T10:00:00Z",
+      "timestamp": "2026-05-01T10:04:30Z",
+      "answers": {
+        "How often do you exercise?": "2-3 times a week",
+        "Favorite cuisine?": "Italian",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "4",
+        "Any feedback?": "Loved the recommendations, especially the pasta tips you sent last week."
+      }
+    },
+    {
+      "id": "r2",
+      "email": "spam@bot.io",
+      "startedAt": "2026-05-01T10:05:00Z",
+      "timestamp": "2026-05-01T10:05:08Z",
+      "answers": {
+        "How often do you exercise?": "A",
+        "Favorite cuisine?": "A",
+        "Do you cook at home?": "A",
+        "Rate our service": "A",
+        "Any feedback?": "ok"
+      }
+    },
+    {
+      "id": "r3",
+      "email": "bob@example.com",
+      "startedAt": "2026-05-01T10:10:00Z",
+      "timestamp": "2026-05-01T10:13:12Z",
+      "answers": {
+        "How often do you exercise?": "Never",
+        "Favorite cuisine?": "Indian",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "5",
+        "Any feedback?": "I appreciated the quick checkout flow."
+      }
+    },
+    {
+      "id": "r4",
+      "email": "duplicate@bot.io",
+      "startedAt": "2026-05-01T10:15:00Z",
+      "timestamp": "2026-05-01T10:15:05Z",
+      "answers": {
+        "How often do you exercise?": "A",
+        "Favorite cuisine?": "A",
+        "Do you cook at home?": "A",
+        "Rate our service": "A",
+        "Any feedback?": "ok"
+      }
+    },
+    {
+      "id": "r5",
+      "answers": {
+        "How often do you exercise?": "Daily",
+        "Favorite cuisine?": "Mexican",
+        "Do you cook at home?": "Never",
+        "Rate our service": "Always",
+        "Any feedback?": "asdf"
+      }
+    }
+  ]
+}

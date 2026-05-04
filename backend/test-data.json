@@ -1,0 +1,149 @@
+{
+  "useAI": true,
+  "responses": [
+    {
+      "id": "user-001",
+      "email": "alice.kim@example.com",
+      "startedAt": "2026-05-01T09:00:00Z",
+      "timestamp": "2026-05-01T09:04:42Z",
+      "answers": {
+        "How often do you exercise?": "2-3 times a week",
+        "Favorite cuisine?": "Italian",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "4",
+        "How satisfied are you with the onboarding?": "Satisfied",
+        "Any feedback?": "The onboarding flow was smooth, but I wish the dashboard had dark mode by default."
+      }
+    },
+    {
+      "id": "user-002",
+      "email": "bot1@spam.io",
+      "startedAt": "2026-05-01T09:05:00Z",
+      "timestamp": "2026-05-01T09:05:09Z",
+      "answers": {
+        "How often do you exercise?": "A",
+        "Favorite cuisine?": "A",
+        "Do you cook at home?": "A",
+        "Rate our service": "A",
+        "How satisfied are you with the onboarding?": "A",
+        "Any feedback?": "ok"
+      }
+    },
+    {
+      "id": "user-003",
+      "email": "bob.singh@example.com",
+      "startedAt": "2026-05-01T09:10:00Z",
+      "timestamp": "2026-05-01T09:13:55Z",
+      "answers": {
+        "How often do you exercise?": "Daily",
+        "Favorite cuisine?": "Indian",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "5",
+        "How satisfied are you with the onboarding?": "Very satisfied",
+        "Any feedback?": "Loved the speed of the checkout flow. The recommendations were genuinely useful."
+      }
+    },
+    {
+      "id": "user-004",
+      "email": "bot2@spam.io",
+      "startedAt": "2026-05-01T09:15:00Z",
+      "timestamp": "2026-05-01T09:15:08Z",
+      "answers": {
+        "How often do you exercise?": "A",
+        "Favorite cuisine?": "A",
+        "Do you cook at home?": "A",
+        "Rate our service": "A",
+        "How satisfied are you with the onboarding?": "A",
+        "Any feedback?": "ok"
+      }
+    },
+    {
+      "id": "user-005",
+      "email": "carol.chen@example.com",
+      "startedAt": "2026-05-01T09:20:00Z",
+      "timestamp": "2026-05-01T09:26:18Z",
+      "answers": {
+        "How often do you exercise?": "Once a week",
+        "Favorite cuisine?": "Japanese",
+        "Do you cook at home?": "Sometimes",
+        "Rate our service": "3",
+        "How satisfied are you with the onboarding?": "Neutral",
+        "Any feedback?": "Pricing felt steep for a small team. Otherwise the product is solid."
+      }
+    },
+    {
+      "id": "user-006",
+      "email": "lazy@example.com",
+      "startedAt": "2026-05-01T09:30:00Z",
+      "timestamp": "2026-05-01T09:30:45Z",
+      "answers": {
+        "How often do you exercise?": "Daily",
+        "Favorite cuisine?": "Mexican",
+        "Do you cook at home?": "No",
+        "Rate our service": "4",
+        "How satisfied are you with the onboarding?": "Satisfied",
+        "Any feedback?": "asdf",
+        "Other comments?": "ok",
+        "Anything we should improve?": "n/a"
+      }
+    },
+    {
+      "id": "user-007",
+      "email": "contradictor@example.com",
+      "startedAt": "2026-05-01T09:35:00Z",
+      "timestamp": "2026-05-01T09:35:30Z",
+      "answers": {
+        "How often do you exercise?": "Weekly",
+        "Favorite cuisine?": "Thai",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "3",
+        "How satisfied are you with the onboarding?": "Strongly agree",
+        "Would you recommend us?": "Strongly disagree",
+        "Any feedback?": "It was fine."
+      }
+    },
+    {
+      "id": "user-008",
+      "email": "dan.murphy@example.com",
+      "startedAt": "2026-05-01T09:40:00Z",
+      "timestamp": "2026-05-01T09:46:11Z",
+      "answers": {
+        "How often do you exercise?": "Never",
+        "Favorite cuisine?": "Greek",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "5",
+        "How satisfied are you with the onboarding?": "Very satisfied",
+        "Any feedback?": "I appreciate the email digest format. Could you add a weekly summary on Mondays?"
+      }
+    },
+    {
+      "id": "user-009",
+      "email": "rapidclicker@spam.io",
+      "startedAt": "2026-05-01T09:50:00Z",
+      "timestamp": "2026-05-01T09:50:04Z",
+      "answers": {
+        "How often do you exercise?": "Strongly agree",
+        "Favorite cuisine?": "Strongly agree",
+        "Do you cook at home?": "Strongly agree",
+        "Rate our service": "Strongly agree",
+        "How satisfied are you with the onboarding?": "Strongly agree",
+        "Would you recommend us?": "Strongly agree",
+        "Any feedback?": "yes"
+      }
+    },
+    {
+      "id": "user-010",
+      "email": "emma.li@example.com",
+      "startedAt": "2026-05-01T10:00:00Z",
+      "timestamp": "2026-05-01T10:07:22Z",
+      "answers": {
+        "How often do you exercise?": "3-4 times a week",
+        "Favorite cuisine?": "Vietnamese",
+        "Do you cook at home?": "Yes",
+        "Rate our service": "4",
+        "How satisfied are you with the onboarding?": "Satisfied",
+        "Any feedback?": "Sign-up was clear. The mobile layout could use more breathing room on small screens."
+      }
+    }
+  ]
+}
